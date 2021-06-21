@@ -1,5 +1,6 @@
-
-![Front](./Screenshots/front.png)
+<p align="center">
+<img src="./Screenshots/front.png" width="700"/>
+</p>
 
 ## **What is JavaScript ?**
 > ***JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.
@@ -17,7 +18,9 @@ Every time a web page does more than just sit there and display static informati
 
 * **Richer Interfaces** − You can use JavaScript to include such items as drag-and-drop components and sliders to give a Rich Interface to your site visitors
 
-![Applications](./Screenshots/Application.png)
+<p align="center">
+<img src="./Screenshots/Application.png" width="800" height="250"/>
+</p>
 
 ## JavaScript frameworks
 * A JavaScript framework is a collection of JavaScript code libraries that provide developers with pre-written code for routine programming tasks. Frameworks are structures with a particular context and help you create web applications within that context.
@@ -26,10 +29,14 @@ Every time a web page does more than just sit there and display static informati
 
 * JavaScript frameworks, like most other frameworks, provide some rules and guidelines. Using these rules and guidelines, any developer can make complex applications faster and more efficiently than if they decided to build from scratch. The rules and guidelines help shape and organize your website or web application too
 
-![frameworks](./Screenshots/fw.jpg)
+<p align="center">
+<img src="./Screenshots/fw.jpg" width="600" height="250"/>
+</p>
 
 ## ***Some of the major Organizations Using JavaScript***
-![company](./Screenshots/company.png)
+<p align="center">
+<img src="./Screenshots/company.png" width="750" height="400"/>
+</p>
 
 #### Microsoft
 * Microsoft works heavily on JavaScript to built its Edge web browser. All browsers need to process and execute JavaScript efficiently, so Microsoft has developed and maintains its own JavaScript engine for Edge.
